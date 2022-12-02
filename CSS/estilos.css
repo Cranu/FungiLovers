@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+body{
+    position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.71);
+}
+
+#INICIO{
+    position: absolute;
+    width: 442px;
+    height: 768px;
+    left: 0px;
+    top: 0px;
+background: url(../IMG/INICIO.png);
+}
+
+#INICIOO{
+    position: absolute;
+    width: 924px;
+    height: 565px;
+    left: 442px;
+    top: 128px;
+    background: url(../IMG/INICIOO.png);
+}
+
+#HONGOSC{
+    position: absolute;
+    width: 924px;
+    height: 566px;
+    left: 442px;
+    top: 128px;
+    background: url(../IMG/Hongosc.png);
+}
+
+#HONGOSV{
+    position: absolute;
+    width: 924px;
+    height: 587px;
+    left: 442px;
+    top: 128px;
+    background: url(../IMG/Hongosv.png);
+}
+
+#HV2{
+    position: absolute;
+    width: 924px;
+    height: 587px;
+    left: 442px;
+    top: 128px;
+    background: url(../IMG/HV2.png);
+}
+
+#HC2{
+    position: absolute;
+    width: 924px;
+    height: 587px;
+    left: 442px;
+    top: 128px;
+    background: url(../IMG/HC2.png);
+}
+
+#BT1{
+    position: absolute;
+    width: 43px;
+    height: 17px;
+    left: 533px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+#BT2{
+    position: absolute;
+    width: 87px;
+    height: 34px;
+    left: 306px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+}
+
+#BT3{
+    position: absolute;
+    width: 98px;
+    height: 34px;
+    left: 380px;
+    top: 0px;
+
+}
+
+#BT4{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 100px;
+    top: 642px;
+}
